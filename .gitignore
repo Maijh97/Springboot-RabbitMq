@@ -40,11 +40,15 @@ local.properties
 # Intellij
 ######################
 .idea/
+# IDEA artifacts and output dirs
 *.iml
-*.iws
 *.ipr
-*.ids
-*.orig
+*.iws
+.idea
+out
+test-output
+atlassian-ide-plugin.xml
+.gradletasknamecache
 
 ######################
 # Visual Studio Code

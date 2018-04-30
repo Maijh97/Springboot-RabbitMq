@@ -1,6 +1,5 @@
 package com.rabbitmq.fanout;
 
-import com.rabbitmq.Fanout.RabbitMqFanoutAndRoutingKeySend;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
